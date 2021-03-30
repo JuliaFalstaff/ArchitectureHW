@@ -1,7 +1,7 @@
 
 class Bicycle {
 
-    private String brand = "";
+    private String brand = "" ;
     private String color = "";
     private String type = "";
 
